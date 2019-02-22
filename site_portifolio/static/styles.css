@@ -1,0 +1,23 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font: bold;
+}
+
+h3{
+    color: blue
+}
+
+
+
+li{
+    /* list-style-type:; */
+    opacity: 0.7;
+}
